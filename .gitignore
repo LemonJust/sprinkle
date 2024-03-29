@@ -1,0 +1,12 @@
+
+src/sprinkle/_version.py
+
+src/sprinkle.egg-info/
+
+datasets/
+
+dist/
+
+docker/
+
+desktop.ini
